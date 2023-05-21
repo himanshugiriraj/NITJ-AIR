@@ -11,6 +11,7 @@ https://forms.gle/HyxLTPWMechvsS1M7
 * After getting the permissions of data sharing, the data will be shared. However, it may took some time. 
 
 * If you use this dataset in your work, please cite us using the following information.
+https://github.com/himanshugiriraj/NITJ-AIR
 
 # Sample Images
 5m ![image](https://github.com/himanshugiriraj/NITJ-AIR/assets/56444068/c0577159-5a17-46ad-9dad-ddd64b1fabaa)
