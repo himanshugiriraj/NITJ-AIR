@@ -11,3 +11,13 @@ https://forms.gle/HyxLTPWMechvsS1M7
 * After getting the permissions of data sharing, the data will be shared. However, it may took some time. 
 
 * If you use this dataset in your work, please cite us using the following information.
+
+# Sample Images
+![image](https://github.com/himanshugiriraj/NITJ-AIR/assets/56444068/c0577159-5a17-46ad-9dad-ddd64b1fabaa)
+"5m"
+![image](https://github.com/himanshugiriraj/NITJ-AIR/assets/56444068/b5440c8e-7952-4c86-8430-f5fb6f2aa4e5)
+"10m"
+![image](https://github.com/himanshugiriraj/NITJ-AIR/assets/56444068/1f5e265b-f05b-4103-a7e0-866dc26f510a)
+"20m"
+![image](https://github.com/himanshugiriraj/NITJ-AIR/assets/56444068/f1a66b8f-1430-495e-8e50-6d26b4c72573)
+"30m"
